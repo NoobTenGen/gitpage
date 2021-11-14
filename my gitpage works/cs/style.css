@@ -18,11 +18,12 @@ body {
 	margin-left: 160px;
 	width:1600px;
 	height: 370px;
+	
 	background: url(images/78104901_p1.png);
 }
 #header img {
 	margin-left: 700px;
-	margin-top: -3000px;
+	margin-top: -3100px;
 	border-radius: 50%;
 	border:10px solid rgba(0, 0, 0, 0.445);
 }
