@@ -1,0 +1,127 @@
+@import url(css/960.gs.css);
+ @font-face{
+	font-family:ziti1;
+	src:url(ziti/FZFWTongQPOPTJW.ttf)
+ }
+body {
+	background-color: rgb(241, 237, 237);
+}
+#info p{
+	margin-top: 20px;
+	font-size: 300%;
+	color:rgba(0, 0, 0, 0.445);
+	font-family:"ziti1";
+	font-weight: 400;
+}
+#header {
+	float:left;
+	margin-left: 160px;
+	width:1600px;
+	height: 370px;
+	background: url(images/78104901_p1.png);
+}
+#header img {
+	margin-left: 700px;
+	margin-top: -3000px;
+	border-radius: 50%;
+	border:10px solid rgba(0, 0, 0, 0.445);
+}
+#xiabiao p{
+	font-size:xx-large;
+	font-weight: 600;
+	margin-left: 720px;
+	color:rgba(0, 0, 0, 0.445);
+	font-family: ziti1;
+	
+}
+#fenge {
+	margin-left: -10px;
+	width: 1600px;
+	height: 10px;
+	margin-top:20px;;
+	background-color:pink;
+}
+#touxiang img{
+	margin-top: 5px;
+	border-radius: 50%;
+	border:10px solid rgba(0, 0, 0, 0.445);
+	margin-left: -15px;
+}
+#wenzi p{
+	margin-top: -85px;
+	margin-left: 150px;
+	font-size: x-large;
+	font-family: ziti1;
+	color:rgb(136, 185, 185);
+}
+#beijing1 img{
+	border-radius: 3%;
+	border:0px;
+	margin-top: 70px;
+}
+#biaoge1 img{
+	border-radius: 0%;
+	border:0px;
+	margin-left: 650px;
+	margin-top: -520px;
+}
+#biaoge2{
+	width:325px;
+	height: 575px;
+	background-color: rgb(252, 233, 216);
+	margin-left: 1000px;
+	margin-top: -580px;
+}
+#biaoge2 p1{
+	font-size: xx-large;
+	line-height:80px;
+	font-family:ziti1;
+	font-weight: 100;
+	color: rgb(3, 161, 163);
+}
+#wenzi2 p{
+	margin-top: -480px;
+	margin-left: 1025px;
+	font-size: x-large;
+}
+#wenzi3 p{
+	margin-top: 30px;
+	margin-left: 1025px;
+	font-size: x-large;
+}
+#wenzi4 p{
+	margin-top: 30px;
+	margin-left: 1000px;
+	font-size: xx-large;
+	font-family:ziti1;
+	font-weight: 100;
+	color: rgb(3, 161, 163);
+}
+#wenzi5 p{
+	margin-top: 30px;
+	margin-left: 1025px;
+	font-size: x-large;
+}
+#wenzi6 p{
+	margin-top: -10px;
+	margin-left: 1025px;
+	font-size: x-large;
+}
+#wenzi7 p{
+	margin-top: 50px;
+	margin-left: 1025px;
+	font-size: xx-large;
+	font-family: ziti1;
+	color: rgb(3, 161, 163);
+}
+#youxiang{
+	margin-top: -430px;
+}
+#youxiang img{
+	border-radius: 0%;
+	border:0px;
+	margin-left: 1325px;
+}
+#end{
+	margin-top: 50px;
+}
